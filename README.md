@@ -1,4 +1,4 @@
-# crypto-price-check-bot
+# Crypto assets price check bot
 A bot to keep track of a desired crypto asset price, sending desktop push notifications at desired price targets.
 
 In order to use the bot, one must fill info contained in the config file.
